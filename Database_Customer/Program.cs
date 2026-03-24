@@ -7,6 +7,9 @@ DATABASE ACCESS IN C# USING LINQ TO SQL
 ===============================================================================
 To run this code, you need to set up a local database and generate LINQ to SQL classes as described in the comments below.
 ===============================================================================
+
+0. Visual Studio Installer -> Add package "Linq to SQL Tools"!
+
 1. Create a Local Database File (.mdf)
    - Open Visual Studio and your project.
    - Open Server Explorer (View > Server Explorer).
